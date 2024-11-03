@@ -11,7 +11,7 @@
 
 // Part 1 answer 👇🏻 ...
 
-let fullName = "Hamad Almatouq";
+let fullName = "khadeejah ismaeil";
 let yearOfBirth = 2001;
 let hobby = "Drawing";
 let funFact = "MAYMONA LOVES WATERMELON";
