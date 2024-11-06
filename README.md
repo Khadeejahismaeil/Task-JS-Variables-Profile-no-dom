@@ -1,3 +1,5 @@
+Hello
+
 # JS-Variables
 
 ## Instructions
